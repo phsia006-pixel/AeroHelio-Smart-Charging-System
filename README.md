@@ -18,7 +18,7 @@ AeroHelio is being developed by a four-member electrical engineering senior desi
 
 | Team Member | Primary Responsibilities |
 |---|---|
-| Peter Hsia | ESP32-S3 and iPhone communication, monitoring interface, battery-percentage collection, and charging-time estimation |
+| Peter Hsia | ESP32-S3 and iPhone communication, monitoring interface, battery-percentage collection, Energy-management software and charging-time estimation algorithm |
 | Khoa Duong | Energy-management software, sensor integration, operating modes, charging supervision, and fault handling |
 | Matthew Hacker | Solar generation, battery charging and protection, voltage regulation, and power distribution |
 | Anthony Ocampo | Wind turbine CAD and mechanical design, generator selection, rectification, and turbine integration |
