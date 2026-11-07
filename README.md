@@ -12,6 +12,20 @@ The system is intended to provide USB-C charging for portable devices while usin
 
 A central engineering challenge is coordinating power from sources whose outputs change with environmental conditions while maintaining reliable and regulated power for the load.
 
+## Project Team
+
+AeroHelio is being developed by a four-member electrical engineering senior design team at the University of California, Riverside.
+
+| Team Member | Primary Responsibilities |
+|---|---|
+| Peter Hsia | ESP32-S3 and iPhone communication, monitoring interface, battery-percentage collection, and charging-time estimation |
+| Khoa Duong | Energy-management software, sensor integration, operating modes, charging supervision, and fault handling |
+| Matthew Hacker | Solar generation, battery charging and protection, voltage regulation, and power distribution |
+| Anthony Ocampo | Wind turbine CAD and mechanical design, generator selection, rectification, and turbine integration |
+
+All four members collaborate on overall system architecture, component selection, hardware integration, and testing.
+
+
 ## System Architecture
 
 The proposed system consists of several interconnected subsystems.
