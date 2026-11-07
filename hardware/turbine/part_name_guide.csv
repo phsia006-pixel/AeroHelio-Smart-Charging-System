@@ -1,0 +1,30 @@
+Original part number,STL filename,Approximate XYZ size (mm),Print?
+1,blade_lower_A.stl,106.3x106.3x150.0mm,"Yes, subject to fit check"
+2,blade_upper_A.stl,106.3x106.3x150.0mm,"Yes, subject to fit check"
+3,motor_shaft_reference_do_not_print.stl,2.3x2.3x12.0mm,NO: reference/hardware
+4,blade_lower_B.stl,63.3x140.4x150.0mm,"Yes, subject to fit check"
+5,blade_upper_B.stl,140.4x63.3x150.0mm,"Yes, subject to fit check"
+6,motor_cradle_rail_A.stl,60.0x8.0x27.4mm,"Yes, subject to fit check"
+7,blade_lower_C.stl,140.4x63.3x150.0mm,"Yes, subject to fit check"
+8,blade_upper_C.stl,63.3x140.4x150.0mm,"Yes, subject to fit check"
+9,motor_cradle_rail_B.stl,60.0x8.0x27.4mm,"Yes, subject to fit check"
+10,rotor_support_lower.stl,154.0x177.8x8.0mm,"Yes, subject to fit check"
+11,frame_crossbar_upper.stl,232.0x18.0x6.0mm,"Yes, subject to fit check"
+12,rotor_support_middle.stl,177.8x154.0x8.0mm,"Yes, subject to fit check"
+13,frame_crossbar_lower.stl,232.0x18.0x5.2mm,"Yes, subject to fit check"
+14,rotor_support_upper.stl,154.0x177.8x8.0mm,"Yes, subject to fit check"
+15,motor_body_reference_do_not_print.stl,27.9x27.9x46.2mm,NO: reference/hardware
+16,frame_upright_right.stl,12.0x12.0x352.0mm,"Yes, subject to fit check"
+17,rotor_shaft_reference_do_not_print.stl,6.2x6.2x366.0mm,NO: reference/hardware
+18,motor_mount_bracket.stl,16.0x16.0x19.0mm,"Yes, subject to fit check"
+19,frame_upright_left.stl,12.0x12.0x352.0mm,"Yes, subject to fit check"
+20,rotor_hub_bottom.stl,36.0x36.0x12.0mm,"Yes, subject to fit check"
+21,motor_cradle_updated.stl,60.0x52.0x57.0mm,"Yes, subject to fit check"
+22,base_plate.stl,260.0x220.0x8.0mm,"Yes, subject to fit check"
+23,rotor_hub_top.stl,36.0x36.0x12.0mm,"Yes, subject to fit check"
+24,bearing_lower_outer_ring_reference_do_not_print.stl,22.0x22.0x7.0mm,NO: reference/hardware
+25,bearing_lower_inner_ring_reference_do_not_print.stl,8.0x8.0x7.0mm,NO: reference/hardware
+26,bearing_upper_outer_ring_reference_do_not_print.stl,22.0x22.0x7.0mm,NO: reference/hardware
+27,bearing_upper_inner_ring_reference_do_not_print.stl,8.0x8.0x7.0mm,NO: reference/hardware
+28,rotor_gear_60T.stl,90.6x90.6x7.0mm,"Yes, subject to fit check"
+29,motor_pinion_18T_updated_2p6mm_bore.stl,29.2x28.9x7.0mm,"Yes, subject to fit check"
